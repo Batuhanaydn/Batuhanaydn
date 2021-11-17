@@ -1,4 +1,4 @@
-<a href="/home/guard/Downloads/Batuhanaydn/Batuhanaydn/charts/hacker.gif">
+<a href="charts/hacker.gif">
 <p>
   <h1 align="center"><b>Hello there, I'm Batuhan 👋</b></h1>
 </p>
