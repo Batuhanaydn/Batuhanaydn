@@ -1,4 +1,4 @@
-<a href="charts/hacker.gif">
+
 <p>
   <h1 align="center"><b>Hello there, I'm Batuhan 👋</b></h1>
 </p>
@@ -16,7 +16,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/7f/dc/e2/7fdce2dc9307aff4f5acb88cc06b5904.gif" />
 
 ### Talk is cheap. Show me the code
 
