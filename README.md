@@ -16,7 +16,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/7f/dc/e2/7fdce2dc9307aff4f5acb88cc06b5904.gif" />
+<img align="right" height="540px" alt="GIF" src="https://i.pinimg.com/originals/7f/dc/e2/7fdce2dc9307aff4f5acb88cc06b5904.gif" />
 
 ### Talk is cheap. Show me the code
 
