@@ -9,31 +9,12 @@
 </p>
 <br />
 
-<p align="center">I am a person who has worked in the field of software before</p>
+<p>I am a person who has worked in the field of software before</p>
 <p>taken
 the leadership role in many projects</p>
 <p>gets along well with people, and
 constantly renews himself in the field of cyber security.</p>
 <br />
-
-<h2 align="center">My favorite projects 💻</h2>
-<br />
-
-<p align="center">
-  <img width="400" src="https://raw.githubusercontent.com/Batuhanaydn/CyberHammer/CyberHammer/src/CyberHammer-banner.gif" />
-  <img width="400" src="https://raw.githubusercontent.com/Batuhanaydn/FaSearch/main/FaSearch_banner.gif?token=GHSAT0AAAAAABTCMAYHHMSTMIN7T2CZMQC4YS3LJSQ" />
- <a href="https://github.com/Batuhanaydn/CyberHammer">
-  <img align="https://github.com/Batuhanaydn/CyberHammer" src="https://github-readme-stats.vercel.app/api/pin/?username=Batuhanaydn&repo=CyberHammer&theme=tokyonight" />
-</a>
-  <a href="https://github.com/Batuhanaydn/FaSearch">
-  <img align="https://github.com/Batuhanaydn/FaSearch" src="https://github-readme-stats.vercel.app/api/pin/?username=Batuhanaydn&repo=FaSearch&theme=tokyonight" />
-</a>
-  <img width="400" src="https://raw.githubusercontent.com/Batuhanaydn/100DaysOfHacking/main/100DaysOfHacking_banner.gif" />
-  <img width="400" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" />
-  <a href="https://github.com/Batuhanaydn/100DaysOfHacking">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Batuhanaydn&repo=100DaysOfHacking&theme=tokyonight" />
-</a>
-
 </p>
 
 <br />
@@ -83,3 +64,5 @@ Timezone: Europe/Istanbul
 📕 **My Personal Page**
 
 ... [More About Me](https://batuhanaydn.github.io/)
+
+> Written with [StackEdit](https://stackedit.io/).
