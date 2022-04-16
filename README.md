@@ -3,9 +3,9 @@
   <h1 align="center"><b>Hi there, I'm Batuhan <img src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" alt="" width="30"></h1>
 </p>
 <p align="center">
-<a href="https://github.com/Batuhanaydn"><img src="https://img.shields.io/badge/Github-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp;
-<a href="https://twitter.com/Telumak"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/batuhan-ayd%C4%B1n/"><img src="https://img.shields.io/badge/Linkedlin-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://github.com/Batuhanaydn"><img src="https://img.shields.io/badge/Github-CC6699?style=for-the-badge&logoColor=white alt="Github" /></a>&nbsp;
+<a href="https://twitter.com/Telumak"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/batuhan-ayd%C4%B1n/"><img src="https://img.shields.io/badge/Linkedlin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter" /></a>&nbsp;
 </p>
 <br />
 
